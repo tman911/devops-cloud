@@ -1,4 +1,4 @@
-##### Question  
+##### Question ##### 
 What is the difference between `git fetch` and `git pull`, and when would you use each?
 
 ### 📝 Short Explanation  
