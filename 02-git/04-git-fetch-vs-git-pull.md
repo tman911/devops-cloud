@@ -1,7 +1,7 @@
 ##### Question ##### 
 What is the difference between `git fetch` and `git pull`, and when would you use each?
 
-### 📝 Short Explanation  
+### 📝 Short Explanation #####
 This question checks if you understand how Git handles remote updates. Many developers use `git pull` out of habit but don’t realize that it’s a combination of two actions — which `git fetch` separates for more control.
 
 ## ✅ Answer  
