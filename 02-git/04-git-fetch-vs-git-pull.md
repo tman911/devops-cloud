@@ -31,7 +31,7 @@ That’s shorthand for:
 git fetch origin
 git merge origin/main
 ```
-
+>>>>>>>>>>
 While `git pull` is faster, it can cause **unintended merges** if you’re not ready. That’s why many teams prefer doing `fetch` first, reviewing the changes, and then merging or rebasing manually.
 
 > Summary:  
